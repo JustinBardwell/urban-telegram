@@ -1,1 +1,2 @@
-var cam = get_view_camera(0);
+
+var cam = camera_create();
