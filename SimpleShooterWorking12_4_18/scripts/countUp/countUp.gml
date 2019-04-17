@@ -1,0 +1,2 @@
+updatecounter++;
+fireratecounter++;

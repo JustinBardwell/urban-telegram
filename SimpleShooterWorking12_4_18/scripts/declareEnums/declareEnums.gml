@@ -1,0 +1,5 @@
+enum states 
+{
+	wander,
+	attack
+}
