@@ -6,7 +6,8 @@
     "children": [
         "19952079-92d1-48f8-ba71-21bb6aabad49",
         "307524a0-c7a4-493f-bc6b-bc6ca44fcfff",
-        "c9745dee-7045-42ed-87c5-12a656ba5759"
+        "c9745dee-7045-42ed-87c5-12a656ba5759",
+        "d9430b5c-da26-4806-a4ee-3735073164bd"
     ],
     "filterType": "GMScript",
     "folderName": "Characters",

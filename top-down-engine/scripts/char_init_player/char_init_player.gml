@@ -1,0 +1,1 @@
+instance_create_layer(obj_test_player.x, obj_test_player.y, "Player",obj_test_camera)
